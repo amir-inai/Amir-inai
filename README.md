@@ -1,41 +1,39 @@
-## Hey, I'm [Amirreza Daneshvar] 👋
+## Hey, I'm Amirreza Daneshvar 
 Junior Software Engineer | Full-Stack Developer
 
 I'm a Junior Software Engineer at Webarka passionate about building clean, reliable, and scalable software.
 
-I enjoy working across both frontend and backend development, with a focus on creating maintainable applications and continuously improving my engineering skills.
-🧑‍💻 About Me
+I enjoy working across frontend and backend development, turning ideas into real-world applications, and continuously improving my software engineering skills.
+About Me
 
-    💼 Junior Software Engineer at Webarka
-    🌱 Continuously learning and improving my development skills
-    🧹 Passionate about Clean Code and maintainable software
-    🧪 Interested in Software Testing and building reliable applications
-    🚀 Enjoy turning ideas into real-world software
+    Junior Software Engineer at Webarka
+    Interested in full-stack software development
+    Passionate about Clean Code and maintainable software
+    Focused on Software Testing and quality
+    Always learning and improving my engineering skills
+    Enjoy building practical projects and solving problems with code
 
-🛠️ Tech Stack
+Tech Stack
 
 Languages
 
-TypeScript JavaScript Go
+    TypeScript JavaScript Go
 
-Frontend
+    Frontend
 
-React.js
+    React.js
 
-Backend & Database
+    Backend & Database
 
-Go MySQL
+    Go MySQL
 
-Development
+Practices
 
-Clean Code Testing Software Development
-📌 What I'm Working On
+    Clean Code Software Testing Software Development
+Let's Connect
 
-Building software, learning new technologies, improving my engineering practices, and growing as a developer.
-🤝 Let's Connect
-
-I'm always open to connecting with other developers, sharing knowledge, and exploring interesting software projects.
-
+    LinkedIn: Amirreza Daneshvar
+    
 
 
 <!--
