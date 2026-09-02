@@ -32,9 +32,9 @@ Practices
     Clean Code Software Testing Software Development
 Let's Connect
 
-    LinkedIn: https://www.linkedin.com/in/amirreza-daneshvar-/
-    
+    LinkedIn: [Amirreza Daneshvar](https://www.linkedin.com/in/amirreza-daneshvar-/)
 
+    
 
 <!--
 **amir-inai/Amir-inai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
