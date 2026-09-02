@@ -32,7 +32,7 @@ Practices
     Clean Code Software Testing Software Development
 Let's Connect
 
-    LinkedIn: Amirreza Daneshvar
+    LinkedIn: [Amirreza Daneshvar](https://www.linkedin.com/in/amirreza-daneshvar-/)
     
 
 
